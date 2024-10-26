@@ -38,5 +38,5 @@ Explore my projects developed using Arduino. Click on each project to view detai
 
 ## 🔗 Quick Links
 
-- [🏠 Back to Main README](../README.md)
-- [📁 STM32 Projects](../STM32/README.md)
+- [🏠 Back to Main README](https://github.com/Amid68/Amid68/blob/main/README.md)
+- [📁 STM32 Projects](https://github.com/Amid68/STM32/blob/main/README.md)
