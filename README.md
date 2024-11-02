@@ -2,6 +2,12 @@
 
 Explore my projects developed using Arduino. Click on each project to view detailed information.
 
+## Quick Navigation
+- [LED Control](#🔴-led-control)
+- [Analog Control](#🎛️-analog-control)
+- [Interactive Projects](#🎮-interactive-projects)
+
+
 ## 📌 Projects
 
 ### 🔴 **LED Control**
@@ -34,6 +40,9 @@ Explore my projects developed using Arduino. Click on each project to view detai
 - [**Arduino Memory Game**](https://github.com/Amid68/arduino-memory-game)  
   An Arduino version of the classic Simon Says memory game, utilizing four LEDs, four pushbutton switches, and a piezo buzzer to test and improve memory skills.
 
+- [**Arduino Electronic Die**](https://github.com/Amid68/arduino-electronic-die)  
+  Simulates the rolling of a die using an Arduino Uno R3 and a 7-segment display, implemented in both Arduino Sketch (.ino) and pure embedded C versions.
+  
 ---
 
 ## 🔗 Quick Links
