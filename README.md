@@ -3,9 +3,9 @@
 Explore my projects developed using Arduino. Click on each project to view detailed information.
 
 ## Quick Navigation
-- [LED Control](#🔴-led-control)
-- [Analog Control](#🎛️-analog-control)
-- [Interactive Projects](#🎮-interactive-projects)
+- [LED Control](###🔴-led-control)
+- [Analog Control](###🎛️-analog-control)
+- [Interactive Projects](###🎮-interactive-projects)
 
 
 ## 📌 Projects
