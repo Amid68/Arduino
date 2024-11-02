@@ -10,7 +10,7 @@ Explore my projects developed using Arduino. Click on each project to view detai
 
 ## 📌 Projects
 
-### 🔴 **LED Control**
+### **LED Control**
 
 - [**LED Blinking with Serial Communication**](https://github.com/Amid68/LED-Blinking-with-Serial-Communication)  
   A basic "Hello, World!" project in Arduino that demonstrates simple LED blinking with serial communication capabilities.
@@ -24,7 +24,7 @@ Explore my projects developed using Arduino. Click on each project to view detai
 - [**Dual-Pin Digital Analog Control**](https://github.com/Amid68/Dual-Pin-Digital-Analog-Control)  
   Demonstrates the use of a single pin in an Arduino Uno to function both as a digital and analog output, optimizing pin usage.
 
-### 🎛️ **Analog Control**
+### **Analog Control**
 
 - [**Dimmable LED with Potentiometer**](https://github.com/Amid68/Dimmable-LED-with-Potentiometer)  
   Reads an analog value from pin A5 and converts it into a voltage value between 0 and 5 volts. The voltage is then printed to the serial monitor every 500 milliseconds, allowing for LED dimming based on potentiometer input.
@@ -32,7 +32,7 @@ Explore my projects developed using Arduino. Click on each project to view detai
 - [**Arduino Bar Graph**](https://github.com/Amid68/arduino-bar-graph)  
   An LED bar graph that can be controlled with a potentiometer, providing a visual representation of analog input values.
 
-### 🎮 **Interactive Projects**
+### **Interactive Projects**
 
 - [**Arduino Piano**](https://github.com/Amid68/arduino-piano)  
   Plays different musical tones when buttons are pressed, simulating a simple piano interface using Arduino.
